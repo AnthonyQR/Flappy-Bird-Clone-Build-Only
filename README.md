@@ -1,6 +1,6 @@
 # Flappy-Bird-Clone-Build-Only
 
-* This only has the build of the game. For the complete project, visit https://github.com/AnthonyQR/Flappy-Bird-Clone
+*This only has the build of the game. For the complete project, visit https://github.com/AnthonyQR/Flappy-Bird-Clone*
 
 Trying to improve my skills by recreating some games. Game works.
 
